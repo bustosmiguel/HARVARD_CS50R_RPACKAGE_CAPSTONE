@@ -16,6 +16,6 @@ I also demonstrated in the video that it is fully functional with tidyverse pipe
 
 The other two functions in the R package are politics() and religion(), both of which can be associated with all countries, obtain data and create graphs with other R packages, forecasts and simulations of infinite data regressions.
 
-Las otras dos funciones del paquete de R, son politics() y religion(), que ambas pueden ser asociadas a todos los países, obtener datos y realizar gráficas con otros paquetes de R, pronósticos y simulaciones varias.
+Las otras dos funciones del paquete de R, son politics() y religion(), que ambas pueden ser asociadas a todos los países, obtener datos y realizar gráficas con otros paquetes de R, pronósticos y pruebas científicas.
 
 ing.mig.bustos@gmail.com
