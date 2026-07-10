@@ -4,7 +4,7 @@ I also demonstrated in the video that it is fully functional with tidyverse pipe
 
 The other two functions in the R package are politics() and religion(), both of which can be associated with all countries, obtain data and create graphs with other R packages, forecasts and simulations of infinite data regressions.
 
-![Demostración en Video del Paquete](https://img.youtube.com/vi/lYkjYNni9OQ/0.jpg)](https://www.youtube.com/watch?v=lYkjYNni9OQ)
+[![Demostración en Video del Paquete](https://img.youtube.com/vi/lYkjYNni9OQ/0.jpg)](https://www.youtube.com/watch?v=lYkjYNni9OQ)
 
 ![Certificado oficial de Harvard - CS50R](./certificate/CS50R.png)
 
